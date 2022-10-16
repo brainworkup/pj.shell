@@ -1,0 +1,19 @@
+p {
+  background-color: #ffffff;
+  color: #41435f9c;
+  padding: 15px;
+}
+ul {
+  background-color: #ffffff;
+}
+li {
+  color: #41435f9c;
+}
+div {
+  height: 50px;
+  width: 50px;
+  background-color: #004590;
+}
+div:hover {
+  background-color: rgba(0, 69, 144, 0.5);
+}

@@ -1,0 +1,8 @@
+# Docs ignore
+node_modules
+.dendron.*
+build
+seeds
+.next
+pods/service-connections
+dependencies/github.com/brainworkup/*

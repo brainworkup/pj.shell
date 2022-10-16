@@ -1,0 +1,28 @@
+@background-color: #ffffff;
+@text-color: #41435f9c;
+
+p {
+  background-color: @background-color;
+  color: @text-color;
+  padding: 15px;
+}
+
+ul {
+  background-color: @background-color;
+}
+
+li {
+  color: @text-color;
+}
+
+@var: #004590;
+
+div {
+  height: 50px;
+  width: 50px;
+  background-color: @var;
+
+  &:hover {
+    background-color: fadeout(@var, 50%);
+  }
+}
