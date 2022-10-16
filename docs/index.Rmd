@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "index"
 author: "Joey Trampush"
 date: today
 output: html_document

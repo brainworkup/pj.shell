@@ -27,7 +27,7 @@ workspace:
           name: docs
           remote:
               type: git
-              url: https://github.com/brainworkup/pj.{{shell}}.git
+              url: https://github.com/brainworkup/pj.shell.git
     journal:
         dailyDomain: daily
         name: journal
